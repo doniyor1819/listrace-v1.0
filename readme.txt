@@ -32,4 +32,4 @@ License:
 -----------------------
 Free License - https://www.themesine.com/license/
 
-QOSHDIM
+QOSHDIM.
